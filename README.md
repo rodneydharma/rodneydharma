@@ -1,6 +1,5 @@
 - Hello, I’m @rodneydharma
-- I'm interested in most things mathematics related. Especially numerical methods on solving pdes. 
-- I'm currently trying to get a handle on finite-element methods and julia programming. 
+- I am coding, sometimes. Maybe. 
 - Thanks for visiting. 
 
 
